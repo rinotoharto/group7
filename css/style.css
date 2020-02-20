@@ -82,11 +82,6 @@ form{
     border-radius: 15px;
 }
 
-.product-img a:hover{
-    border-bottom: 2px solid black;
-
-}
-
 footer{
     text-align: center;
     margin: 10px;
